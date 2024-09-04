@@ -20,5 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ayush-200v&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
