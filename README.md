@@ -12,7 +12,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayush-200v&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-200v&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-200v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-200v&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+## 🏆 Achievements
+
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=flat-square)
+![Top Contributor](https://img.shields.io/badge/Top%20Contributor-Open%20Source-blue?style=flat-square)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
